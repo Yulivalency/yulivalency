@@ -17,17 +17,21 @@ Actualmente busco oportunidades de prácticas donde pueda:
 - Trabajar en entornos reales de desarrollo 💼
 - Seguir creciendo como programadora 🚀
 
+
 ## 🚀 Tecnologías
 
 Kotlin | Android | MVVM | Room | XML | Git
+
 
 ## 📌 Proyectos destacados
 🏋️ FitTrackGym – App Android para gestión de reservas en gimnasios
 (Proyecto final DAM)
 
+
 ## 🎯 Objetivo
 
 Busco oportunidades de prácticas donde pueda aplicar mis conocimientos, crecer profesionalmente y ganar experiencia real en desarrollo de software.
+
 
 ## 📫 Contacto
 E-mail: yulimaria.mv@gmail.com
